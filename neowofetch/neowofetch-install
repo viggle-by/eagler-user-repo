@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# neowofetch install
+P="/usr/bin/neowofetch" && sudo curl -L nf.hydev.org -o "$P" && chmod +x "$P"
